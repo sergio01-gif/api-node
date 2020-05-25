@@ -22,7 +22,6 @@ app.get('/teste',(req,res) => {
 
     res.send("Meu primeiro teste")
 
-
 })
 
 
